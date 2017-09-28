@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c4647</color>
+    <color name="colorPrimaryDark">#2c3534</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_color">#2c3534</color>
+    <color name="grid_color">#87878a</color>
+    <color name="display_color">#fff</color>
+    <color name="status_game_color">#fa3663</color>
+    <color name="stick_color">#fff</color>
+    <color name="cross_wins">#297af3</color>
+    <color name="circle_wins">#ef3c7a</color>
+    <color name="draw_game">#28c6dc</color>
+</resources>

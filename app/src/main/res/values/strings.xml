@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="button_jugar_de_nuevo">Jugar de nuevo</string>
+    <string name="button_home">Menú</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_back_home">Al volver a la pantalla inicial se perderán los datos del juego.</string>
+    <string name="player_turn">TURNO:</string>
+    <string name="juego_terminado">Juego terminado. [</string>
+    <string name="empate">Juego terminado. Nadie gana!</string>
+</resources>
